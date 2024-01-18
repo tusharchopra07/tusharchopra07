@@ -8,7 +8,7 @@ Web Developer, and App Translator
 * ✉️  You can contact me at [tushrachopra07@gmail.com](mailto:tushrachopra07@gmail.com)
 * 🧠  I'm learning .net, JavaScrupt
 * 🤝  I'm open to collaborating on translating apps into Sanskrit or Hindi Language
-* ⚡  I m
+* ⚡  I bought some shoes from a drug dealer. I don't know what he laced them with, but I've been tripping all day!
 
 <a href="https://www.github.com/tusharchopra07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tusharchopra07?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/tusharchopra07" target="_blank" rel="noreferrer"><img
