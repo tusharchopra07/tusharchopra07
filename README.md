@@ -15,7 +15,7 @@
 
 ## 💻 Current Working On
 - Translating ytdlnis in sanskrit Language
-- Creating and Index of FOSS apps for Windows 
+- Creating an Index of FOSS apps for Windows 
 - Creating yt-dlp based video downloader (written in batch scripting)
 - Creating an Web Based App (still working...)
 
