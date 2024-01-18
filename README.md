@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-cartoon-boy-smiling-cartoon-character-in-glasses-on-brown-background-vector-png-image_12165626.png"  />
 
 ###
 
