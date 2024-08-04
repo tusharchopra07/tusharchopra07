@@ -6,7 +6,7 @@ Web Developer, and App Translator
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tushrachopra07@gmail.com](mailto:tushrachopra07@gmail.com)
-* 🧠  I'm learning .net, JavaScrupt
+* 🧠  I'm learning .net, JavaScript
 * 🤝  I'm open to collaborating on translating apps into Sanskrit or Hindi Language
 * ⚡  I bought some shoes from a drug dealer. I don't know what he laced them with, but I've been tripping all day!
 
